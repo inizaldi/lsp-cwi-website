@@ -60,6 +60,12 @@
                 </li>
 
                  <li class='nav-item'>
+                    <a class='nav-link menu-link' href='#'>
+                        <i class='ri-database-2-line'></i> <span data-key='t-dashboards'>Asesi</span>
+                    </a>
+                </li>
+
+                 <li class='nav-item'>
                     <a class='nav-link menu-link' href='#log' role='button'
                         aria-expanded='true' aria-controls='log'>
                         <i class='ri-file-transfer-line'></i> <span data-key='t-multi-level'>Log</span>
